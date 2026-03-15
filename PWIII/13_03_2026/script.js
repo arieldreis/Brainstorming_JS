@@ -12,4 +12,4 @@ function carregarUsuarios(){
     }).catch(error => {
         console.error("Erro ao buscar os dados: ", error);
     })
-}
+} 
