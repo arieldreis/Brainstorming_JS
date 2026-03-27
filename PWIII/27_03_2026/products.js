@@ -1,0 +1,22 @@
+export const products = [
+    {id: 1, name: "Watermelon", price: 5.99},
+    { id: 2, name: "Apple", price: 2.50 },
+    { id: 3, name: "Banana", price: 1.20 },
+    { id: 4, name: "Grape", price: 8.90 },
+    { id: 5, name: "Orange", price: 3.45 },
+    { id: 6, name: "Strawberry", price: 12.00 },
+    { id: 7, name: "Pineapple", price: 6.50 },
+    { id: 8, name: "Mango", price: 4.25 },
+    { id: 9, name: "Blueberry", price: 15.99 },
+    { id: 10, name: "Peach", price: 5.30 },
+    { id: 11, name: "Pear", price: 3.10 },
+    { id: 12, name: "Cherry", price: 20.00 },
+    { id: 13, name: "Melon", price: 7.80 },
+    { id: 14, name: "Kiwi", price: 9.50 },
+    { id: 15, name: "Papaya", price: 4.99 },
+    { id: 16, name: "Lemon", price: 0.99 },
+    { id: 17, name: "Avocado", price: 6.20 },
+    { id: 18, name: "Pomegranate", price: 14.50 },
+    { id: 19, name: "Coconut", price: 5.00 },
+    { id: 20, name: "Raspberry", price: 18.75 }
+]
